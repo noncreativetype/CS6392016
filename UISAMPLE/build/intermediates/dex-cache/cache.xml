@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_93c16bbf532874109eb12e72b952f1ccef7d87f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9411f480b964f8320a3684670646a7c43e5ac0ed">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3b6ae84ec4e169e4131ee29c6490a0860510de9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e230d340c7d5e27d1fb542eb59dcbf05e9ed8c5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_8d2f8dc7eeb1015fa914c7740fa0b5562f5419f1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bddcfd5d166d02faa28d204fb2f9955cb251ad4d">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_14fb812aa2496262445945c950546ad0afa9f423\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_6c0b41d477c779786406e992dbdd034113a4510f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_8c07225e39ad6380f50232707807635315460fef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_434d0bece5764165d4313cd58b459ccb3113d9be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_90a943fb6ce35d36f7e7df8c60a6a46cfcd7c773\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\fabes\AndroidStudioProjects\UISample2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_5983176fc2b71afb5df67240cfc2aa23f6d80799\classes.dex" />
+    </item>
+
+</items>
