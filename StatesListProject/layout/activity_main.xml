@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment app:name="com.fabianpatino.stateslistproject.ListFragment" app:id="@id/fragment" app:layout_width="-1" app:layout_height="-1" />
